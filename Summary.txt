@@ -1,0 +1,5 @@
+Description: It is an electronic voting machine performing following:-
+1.	New Voter-Registration Form.
+2.	Voting Acknowledgement Receipt.
+3.	Online-Polling System with Instant Infographic Result.
+4.	User-Profile Management.
